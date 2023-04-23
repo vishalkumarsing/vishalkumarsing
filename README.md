@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, ITS__VISHAL-SINGH </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkumarsing&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkumarsing" /> </p>
 
-- 🌱 I’m currently learning **DSA AND WEB DEVELOPMENT**
+- 🌱 I’m currently learning **DSA 
 
 - 📫 How to reach me **VISHALSINGH.82210@GMAIL.COM**
 
