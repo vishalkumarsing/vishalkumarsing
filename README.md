@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **VISHALSINGH.82210@GMAIL.COM**
 
-- ⚡ Fun fact **NOTHING**
+- ⚡ Fun fact **its private life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
