@@ -8,8 +8,8 @@
 
 - ⚡ Fun fact **its private life(so don't interfere  )**
 
-- [![An image of @vishalkumarsing's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkumarsing)](https://holopin.io/@vishalkumarsing)
-
+[![An image of @vishalkumarsing's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkumarsing)](https://holopin.io/@vishalkumarsing)
+HACKTOBERFEST BADGES..
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal-kumar-singh-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar-singh-" height="30" width="40" /></a>
